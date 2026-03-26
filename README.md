@@ -3,6 +3,7 @@
 **N° d’Inscription :** SMI0157/24
 
 ## 1. Initialisation et configuration
+J’ai créé un dossier tp-git et l’ai ouvert avec VSCode pour commencer le projet.
 J'ai initialisé le dépôt avec `git init` et configuré mon identité. <br><br>
 `git status` montre l'état actuel de ton projet : quels fichiers sont modifiés, lesquels sont nouveaux (untracked) et lesquels sont prêts à être enregistrés.<br>
 `git add` Ajoute des fichiers à l'index (Staging Area). C'est une étape de préparation avant la sauvegarde définitive.<br>
@@ -39,6 +40,8 @@ Le fichier `credentials` est ignoré grâce au fichier `.gitignore`.<br><br>
 <img width="961" height="963" alt="image" src="https://github.com/user-attachments/assets/f968fde7-828e-4d03-9cf7-3499fb45b43a" /><br>
 <img width="978" height="950" alt="image" src="https://github.com/user-attachments/assets/1e062d6f-0937-4191-941e-74fe8fec97b5" /><br>
 <img width="828" height="403" alt="image" src="https://github.com/user-attachments/assets/ff2bbc59-2ac0-44be-a9ea-386ddc5c798e" /><br>
+J’ai renommé le dépôt GitHub en TP1-NIEMA-EL-MALKI afin de respecter les consignes du TP.<br>
+
 
 ## 3. Gestion des branches
 J'ai créé une branche `dev` pour les modifications et effectué un merge vers la branche principale.<br>
